@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function index() {
     return (
-        <div>Projects</div>
+        <div className='h-screen'>
+            <div>Projects</div>
+        </div>
     )
 }

@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function index() {
     return (
-        <div>Contact</div>
+        <div className='h-screen'>
+            <div>Contact</div>
+        </div>
     )
 }

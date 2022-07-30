@@ -1,9 +1,10 @@
 import React from 'react'
+import Introduction from '../components/Home/Introduction'
 
 export default function Home() {
     return (
-        <>
-            <div>Home</div>
-        </>
+        <div className='h-screen'>
+            <Introduction/>
+        </div>
     )
 }
